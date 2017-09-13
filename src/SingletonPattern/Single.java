@@ -12,4 +12,5 @@ public class Single {
 	public void run(){
 		System.out.println("单例模式");
 	}
+	
 }
